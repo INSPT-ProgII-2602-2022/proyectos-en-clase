@@ -1,4 +1,4 @@
-package proyectos.holamundo;
+package proyectos.clase1;
 
 import java.util.Scanner;
 
